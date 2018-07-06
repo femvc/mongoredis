@@ -1,6 +1,6 @@
 {
   "name": "mongoredis",
-  "version": "1.7.4",
+  "version": "1.7.5",
   "description": "Mini mongo and redis",
   "main": "index.js",
   "scripts": {

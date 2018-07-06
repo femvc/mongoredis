@@ -1,3 +1,15 @@
 ### version 1.7.3
 
 Fix JSON.parse('[\uFEFF]') error
+
+
+### version 1.7.4
+
+Sort suport function
+
+
+### version 1.7.5
+
+Add upsingle, upsert, upsertsingle method
+
+
