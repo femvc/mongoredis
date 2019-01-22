@@ -1,21 +1,21 @@
 {
-  "name": "mongoredis",
-  "version": "1.7.5",
-  "description": "Mini mongo and redis",
-  "main": "index.js",
-  "scripts": {
-    "test": "npm run test.js"
+  "author": {
+    "name": "wanghaiyang"
   },
+  "dependencies": {},
+  "description": "Mini mongo and redis",
   "keywords": [
     "mongo",
     "mongoDB",
     "redis"
   ],
-  "author": {
-    "name": "wanghaiyang"
-  },
   "license": "ISC",
-  "dependencies": {},
+  "main": "index.js",
+  "name": "mongoredis",
+  "scripts": {
+    "test": "npm run test.js"
+  },
   "readmeFilename": "README.md",
-  "readme": "ERROR: No README data found!"
+  "readme": "ERROR: No README data found!",
+  "version": "1.7.7"
 }
